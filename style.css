@@ -154,7 +154,7 @@ i {
     }
 
     input {
-        width: 400px;
+        width: 250px;
     }
 }
 
@@ -176,4 +176,5 @@ i {
        position: relative;
     }
     
+
 }
